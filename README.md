@@ -7,3 +7,5 @@ Add your detail to "#Modify Here" section on code.
 Usage: "python main.py 'yourinstagramid'"
 
 After proccess check output.html to see your unfollowers and etc.
+
+## No longer in use
